@@ -1,6 +1,6 @@
 # OmniGit
 
-The objective of UniGit is to allow an organization to migrate their codebase across different vendors (as for instance GitHub, BitBucket, GitLab, etc.).
+The objective of OmniGit is to allow an organization to migrate their codebase across different vendors (as for instance GitHub, BitBucket, GitLab, etc.).
 
 ## Terminology
 
